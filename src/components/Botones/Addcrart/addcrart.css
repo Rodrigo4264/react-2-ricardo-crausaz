@@ -1,0 +1,23 @@
+.addchart-contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.addchart-btn{
+    margin: 0 15px;
+    height: 30px;
+    width: 30px;
+    border: none;
+    border-radius: 50%;
+}
+
+.addchart-btn:hover{
+    background-color: rgb(94, 105, 102);
+    color: #fff;
+}
+
+.addchart-contador{
+    font-size: 20px;
+}

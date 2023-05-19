@@ -1,0 +1,27 @@
+.multicarrusel-item-card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 200px;
+  margin: auto 1rem;
+  text-align: center;
+  font-family: arial;
+}
+
+.multicarrusel-item-name a{
+text-decoration: none;
+
+}
+
+.multicarrusel-item-img{
+    width: 100%;
+  height: 16em;
+  
+}
+
+.multicarrusel-item-price{
+    color: grey;
+  font-size: 22px;
+}
+
+.hahah{
+  text-decoration: none;
+}

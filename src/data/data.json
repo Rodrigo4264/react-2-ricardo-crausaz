@@ -1,0 +1,335 @@
+[
+    {
+      "id": 1,
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "price": 12.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Libro",
+      "img": "https://variety.com/wp-content/uploads/2021/02/gatsby_poster_smallRes_v001_0051.png?w=693",
+      "resume":"El gran Gatsby es una novela de 1925 escrita por el autor estadounidense F. Scott Fitzgerald que sigue a un grupo de personajes que viven en la ciudad ficticia de West Egg en la próspera Long Island, en el verano de 1922. La historia hace referencia principalmente al joven y misterioso millonario Jay Gatsby, su pasión quijotesca y la obsesión por la hermosa ex debutante Daisy Buchanan. Considerada como la obra maestra de Fitzgerald, El gran Gatsby explora los temas de decadencia, idealismo, resistencia al cambio, agitación social y el exceso, creando un retrato de la época del jazz, del art decó y de los locos años veinte que ha sido descrito como una advertencia con respecto al sueño americano."
+    },
+    {
+      "id": 2,
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "price": 8.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Libro",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
+      "resume":"La historia transcurre a lo largo de un período de tres años durante la Gran Depresión en el pueblo ficticio de Maycomb, Alabama. La narradora es Scout Finch, de ocho años de edad, quien vive con su hermano mayor Jem y su padre Atticus, un abogado viudo de mediana edad. Jem y Scout entablan amistad con un niño llamado Dill que está de visita en Maycomb durante el verano y que se hospeda en la casa de su tía. Los tres niños están aterrorizados y a la vez fascinados por su vecino «Boo» Radley, quien posee un carácter huraño. Los adultos de Maycomb evitan hablar sobre Boo y muy pocos le han visto en años. Los niños alimentan su imaginación con rumores sobre las apariciones de Boo y las razones por las que permanece escondido, y elaboran fantasías y planes sobre cómo podrían incitarlo a que saliera de su casa. Tras dos veranos de amistad con Dill, Scout y Jem comienzan a recibir pequeños regalos que alguien coloca en un árbol próximo a la casa de Radley. Varias veces, el misterioso Boo les hace pequeños presentes a los niños, pero para desengaño de ellos, nunca aparece en persona."
+    },
+    {
+      "id": 3,
+      "name": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "price": 7.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Libro",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_864466-MLA51422461002_092022-V.jpg",
+      "resume":"La novela cuenta la historia de Holden Caulfield, un joven neoyorquino de 16 años que acaba de ser expulsado de Pencey Prep, su instituto. Está narrada en la voz de Holden, un joven que se ha caracterizado por tener malos resultados en sus estudios (ya había sido expulsado de varios colegios) y que cree que la mayoría de la gente es «falsa», salvo algunas excepciones, como su ex-novia Jane Gallaher, a la que recuerda en gran parte de la narración. También se destaca el gran amor que siente hacia sus hermanos, uno de los cuales, Allie, está muerto."
+    },
+    {
+      "id": 4,
+      "name": "1984",
+      "author": "George Orwell",
+      "price": 9.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Libro",
+      "img": "https://global-uploads.webflow.com/6034d7d1f3e0f52c50b2adee/6254291caac6d1e42e8986df_62023ceb41cd1c2807b2841a_9788418933011.jpeg",
+      "resume":"El personaje principal de la novela es Winston Smith, que trabaja en el Ministerio de la Verdad. Su cometido es reescribir la historia, ironizando así el ideal declarado en el nombre del Ministerio. Tras años trabajando para dicho Ministerio, Winston Smith se va volviendo consciente de que los retoques de la historia en los que consiste su trabajo son solo una parte de la gran farsa en la que se basa su gobierno, y descubre la falsedad intencionada de todas las informaciones procedentes del Partido Único. En su ansia de evadir la omnipresente vigilancia del Gran Hermano (que llega inclusive a todas las casas) encuentra el amor de una joven rebelde llamada Julia, también desengañada del sistema político; ambos encarnan así una resistencia de dos contra una sociedad que se vigila a sí misma."
+    },
+    {
+      "id": 5,
+      "name": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "price": 14.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Libro",
+      "img": "https://www.libertybooks.com/image/cache/catalog/One-Hundred-Years-of-Solitude-(PB)-640x996.jpg?q6",
+      "resume":"El libro narra la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo. José Arcadio Buendía y Úrsula Iguarán son un matrimonio de primos que se casaron llenos de presagios y temores por su parentesco y el mito existente en la región de que su descendencia podía tener cola de cerdo. En una pelea de gallos en la que resultó muerto el animal de Prudencio Aguilar, este, enardecido por la derrota, le gritó a José Arcadio Buendía, dueño del vencedor: «A ver si ese gallo le hace el favor a tu mujer», ya que la gente del pueblo sospechaba que José Arcadio y Úrsula no habían tenido relaciones en un año de matrimonio (por el miedo de Úrsula de que la descendencia naciera con cola de cerdo). José Arcadio Buendía reta en duelo a Prudencio y lo mata al atravesarle la garganta con una lanza. A partir de entonces, el fantasma de Prudencio lo atormenta apareciéndose repetidas veces en su casa tratando de cerrar la herida mortal con un tapón de esparto. A causa del acoso del fantasma de Aguilar, José Arcadio Buendía y Úrsula Iguarán deciden irse a la sierra. En medio del camino, José Arcadio Buendía tiene un sueño en que se le aparecen construcciones con paredes de espejo y, preguntando su nombre, le responden 'Macondo'. Así, despierto del sueño, decide detener la caravana, hacer un claro en la selva y habitar ahí."
+    },
+    {
+      "id": 6,
+      "name": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "price": 6.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Libro",
+      "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885.jpg",
+      "resume":"La novela describe poco más de un año en la vida de un pequeño grupo de jóvenes en el campo cerca de Londres en el cambio de siglo (del XVIII al XIX), durante el reinado de Jorge III. En el centro de esta sociedad se encuentra la familia Bennet, con sus cinco hijas casaderas, de entre quince y veintitrés años (de mayor a menor: Jane, Elizabeth, Mary, Catherine y Lydia). La señora Bennet ve el matrimonio como la única esperanza para sus hijas, pues tras la muerte del señor Bennet las jóvenes quedarán abandonadas a su suerte cuando William Collins, primo de las muchachas, herede todo debido a que la propiedad forma parte de un mayorazgo del que es beneficiario. El mayorazgo solo se transmite por linaje masculino, de manera que, al fallecimiento del padre, la madre y las hijas perderán la mayor parte de la fortuna y el derecho a habitar la propiedad. La señora Bennet está muy emocionada por las noticias de la llegada de un hombre soltero «de considerable fortuna» (cinco mil libras anuales) al vecindario: Charles Bingley. El señor Bingley ha alquilado la finca Netherfield, donde planea establecerse temporalmente con sus dos hermanas, la señorita Bingley y la señora Hurst, así como su cuñado, el señor Hurst. La señora Bennet espera casar a alguna de sus hijas con el señor Bingley."
+    },
+    {
+      "id": 7,
+      "name": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "price": 10.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Libro",
+      "img": "https://librosobrelibro.com/wp-content/uploads/2021/01/9788445000656.jpg",
+      "resume":"La historia comienza un día en el que el hobbit Bilbo Bolsón, habitante de la Comarca, recibe la inesperada visita del mago Gandalf y de una compañía de trece enanos, liderada por Thorin Escudo de Roble, y compuesta por Balin, Glóin, Bifur, Bofur, Bombur, Dwalin, Ori, Dori, Nori, Óin, Kíli y Fíli. Los enanos necesitaban un miembro más en el grupo, un saqueador experto, para poder llevar a cabo su plan: alcanzar Erebor, derrotar al dragón Smaug y recuperar el reino y su tesoro. Gandalf les había recomendado para esta misión a Bilbo y de esta forma el hobbit se ve envuelto en la aventura."
+    },
+    {
+      "id": 8,
+      "name": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "price": 29.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Libro",
+      "img": "https://m.media-amazon.com/images/I/71jLBXtWJWL._AC_UF1000,1000_QL80_.jpg",
+      "resume":"La obra comienza con la noticia de la celebración del 111.º cumpleaños de Bilbo Bolsón en la Comarca. Sin embargo, para Bilbo esta gran fiesta tenía como motivo principal su partida hacia su último viaje, producto del deseo de terminar sus días en paz y tranquilidad. El mago Gandalf, amigo de Bilbo y quien estaba informado de la decisión del hobbit, también acudió a la fiesta. Tras el discurso pronunciado por Bilbo, este se puso su anillo mágico y desapareció ante los sorprendidos hobbits. Gandalf, que sabía bien lo que acababa de hacer Bilbo, le encontró en Bolsón Cerrado y allí tuvo una pequeña discusión con él, ya que se negaba a dejar el anillo junto con el resto de la herencia a su sobrino Frodo; sin embargo, el mago acabó convenciéndole y Bilbo al fin partió. Entonces, debido a las dudas que le estaba ocasionando el anillo, Gandalf parte en busca de información sobre él, no sin antes informar a Frodo de que lo guarde y no lo toque."
+    },
+    {
+      "id": 9,
+      "name": "El alquimista",
+      "author": "Paulo Coelho",
+      "price": 11.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Libro",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/71aFt4+OTOL.jpg",
+      "resume":"En Andalucía, un joven pastor pasea por las llanuras contemplando la naturaleza. El joven Santiago tiene un sueño repetido mientras descansa con sus ovejas en un pasto Andalucía andaluz, por lo que decide acudir a una gitana para que le interprete el sueño. Después de quedar descontento con la respuesta que recibe, se sienta en un banco de la plaza a leer un libro y conoce a un anciano que dice ser el rey de Salme. Tras tener una conversación con él, en la que le deja claro que es alguien muy especial, Santiago decide emprender un viaje por el norte de África en busca de un tesoro. En su camino conocerá a un sinfín de personas que, como él, buscan su propia Leyenda Personal."
+    },
+    {
+      "id": 10,
+      "name": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Libro",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/80/The_Girl_with_the_Dragon_Tattoo_Poster.jpg",
+      "resume":"El periodista Mikael Blomkvist (Daniel Craig), copropietario de la revista Millennium de Suecia, es acusado de difamación y sentenciado a pagar 600 mil coronas al empresario Hans-Erik Wennerström, enfrentando la quiebra. En esa sit es contactado por Henrik Vanger (Christopher Plummer), un anciano y acaudalado industrial, relacionado con una familia muy poderosa con muchos años de participación en el surgimiento de la economía del país."
+    },
+
+    {
+      "id": 11,
+      "name": "Cracker Island",
+      "author": "Gorillaz",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Musica",
+      "img": "https://cdn.hmv.com/r/w-640/hmv/files/c1/c1d441e7-34de-434b-b438-27dde0d53375.jpg",
+      "resume":"Cracker Island es el octavo álbum de estudio de la banda virtual británica Gorillaz, lanzado el 24 de febrero de 2023 por medio de Parlophone y Warner Records. El álbum incluye colaboraciones con artistas como Stevie Nicks, Adeleye Omotayo, Thundercat, Tame Impala, Bad Bunny, Bootie Brown y Beck."
+    },
+    {
+      "id": 12,
+      "name": "Dawn Fm",
+      "author": "The Weekend",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Musica",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_611717-MLA48795781791_012022-O.webp",
+      "resume":"Dawn FM es el quinto álbum de estudio del cantautor canadiense The Weeknd lanzado el 7 de enero de 2022 por XO y Republic Records. Con la intención de servir como seguimiento directo de su cuarto trabajo discográfico After Hours (2020), Dawn FM cuenta con apariciones especiales de Tyler, the Creator, Lil Wayne y Jim Carrey. El álbum fue producido principalmente por The Weeknd y cuenta con la contribución adicional de Max Martin, Oscar Holter, Quincy Jones y Oneohtrix Point Never, entre otros."
+    },
+    {
+      "id": 13,
+      "name": "Sticky Fingers",
+      "author": "Rolling Stones",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Musica",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_390501-MLA20327551989_062015-O.jpg",
+      "resume":"Sticky Fingers —en español: Dedos pegajosos— es el noveno álbum de estudio de la banda de rock británica The Rolling Stones, publicado en abril de 1971. Grabado entre diciembre de 1969 y enero de 1971, fue producido por el estadounidense Jimmy Miller, en lo que supuso su tercer trabajo consecutivo con el grupo, y cuenta por primera vez con la participación íntegra del guitarrista Mick Taylor como miembro de los Stones: en Let It Bleed, el anterior disco de estudio del grupo, solo aparecía en algunas canciones. Taylor reemplazó en su puesto a Brian Jones. También fue el primer disco editado por el sello discográfico del grupo, Rolling Stones Records."
+    },
+    {
+      "id": 14,
+      "name": "Midnights Lavender",
+      "author": "Taylor Swift ",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Musica",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_984717-MLA53348334774_012023-O.jpg",
+      "resume":""
+    },
+    {
+      "id": 15,
+      "name": "Algun Dia",
+      "author": "Víctor Heredia",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Musica",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_667245-MLA47712878642_092021-O.jpg",
+      "resume":""
+    },
+    {
+      "id": 16,
+      "name": "Físico",
+      "author": "Lali Espósito",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Musica",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_719222-MLU54965052873_042023-O.webp",
+      "resume":""
+    },
+    {
+      "id": 17,
+      "name": "Sob Rock",
+      "author": "John Mayer",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Musica",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_888190-MLA47017886085_082021-O.webp",
+      "resume":""
+    },
+    {
+      "id": 18,
+      "name": "Let It Be",
+      "author": "Beatles",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Musica",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_858270-MLA27209999788_042018-O.jpg",
+      "resume":""
+    },
+    {
+      "id": 19,
+      "name": "Hergest Ridge",
+      "author": "Oldfield Mike",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Musica",
+      "img": "https://m.media-amazon.com/images/I/81JxNzC7PsL._AC_SL1400_.jpg",
+      "resume":""
+    },
+    {
+      "id": 20,
+      "name": "Buena Vista Social Club",
+      "author": "Buena Vista Social Club",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Musica",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_950185-MLA49297376551_032022-O.jpg",
+      "resume":""
+    },
+
+    {
+      "id": 21,
+      "name": "Llaman a la puerta",
+      "author": "M. Night Shyamalan",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Pelicula",
+      "img": "https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_42307_5.jpg",
+      "resume":"Wen, de siete años, está de vacaciones con sus padres, Eric y Andrew, en su remota cabaña en la zona rural de Pensilvania. Mientras atrapa saltamontes, un extraño llamado Leonard se acerca a Wen. Inicialmente encantador, explica que necesita la ayuda de Wen y sus padres para salvar el mundo. Sin embargo, mientras Wen y Leonard pasan tiempo juntos atrapando saltamontes, ella comienza a sospechar cuando aparecen otras tres personas con armas improvisadas. Wen huye para advertir a Eric y Andrew, pero los visitantes irrumpen en la cabaña y los atan, y Eric sufre una conmoción cerebral."
+    },
+    {
+      "id": 22,
+      "name": "Los Fabelman",
+      "author": "Steven Spielberg",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Pelicula",
+      "img": "https://lucasfh1976.files.wordpress.com/2023/02/losfabelman.jpg",
+      "resume":"Creciendo en la era posterior a la Segunda Guerra Mundial en Arizona, desde los 7 hasta los 18 años, un joven llamado Sammy Fabelman descubre un secreto familiar devastador y explora cómo el poder de las películas puede ayudarlo a ver la verdad."
+    },
+    {
+      "id": 23,
+      "name": "Ant-Man y la Avispa: Quantumanía",
+      "author": "Peyton Reed",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Pelicula",
+      "img": "data:image/jpeg;base64,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",
+      "resume":"Durante sus primeros días atrapada en el Reino cuántico, Janet van Dyne se encuentra con un viajero exiliado llamado Kang, cuya nave se estrella en las cercanías de su refugio y se acerca para auxiliarlo. En la actualidad, después de la Batalla final contra Thanos de 2023 y su ejército,n. Scott Lang se ha convertido en un famoso escritor de memorias exitoso y ha estado viviendo felizmente con su novia, Hope van Dyne. Por otro lado, la hija de Scott, ahora adolescente Cassie Lang se ha convertido en una activista política, lo que la ha llevado a tener una relación bastante tensa con su padre. Mientras visita a los padres de Hope, Hank Pym y Janet, la propia Cassie revela que ha estado trabajando en un dispositivo que puede establecer contacto con el Reino cuántico. Al enterarse de esto, Janet entra en pánico y trata de apagar el dispositivo por la fuerza, pero justo en ese momento se recibe el mensaje, lo que ocasiona que se abra un portal y rápidamente los absorbe a los cinco hacia el Reino Cuántico. Al llegar al lugar, Scott y Cassie son rápidamente encontrados por un grupo de nativos que se rebelan contra su tiránico gobernante, mientras que Hope, Janet y Pym aterrizan en otra parte y exploran una ciudad en expansión para obtener respuestas de lo que sucede."
+    },
+    {
+      "id": 24,
+      "name": "La piedad",
+      "author": "Eduardo Casanova",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Pelicula",
+      "img": "https://es.web.img3.acsta.net/pictures/22/12/29/12/18/0774543.jpg",
+      "resume":"Trata sobre la relación de una madre con un hijo llevada a la toxicidad máxima y plantea un paralelismo con la dictadura de Corea del Norte."
+    },
+    {
+      "id": 25,
+      "name": "Scream 6",
+      "author": "Matt Bettinelli-Olpin",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Pelicula",
+      "img": "https://pics.filmaffinity.com/Scream_VI-826495425-large.jpg",
+      "resume":"En la ciudad de Nueva York durante la temporada de Halloween la profesora universitaria adjunta de cine Laura Crane es atraída fuera de un bar solo para ser asesinada por su alumno, Jason Carvey, que vestía un disfraz de Ghostface. Jason conspira con su compañero de cuarto Greg para matar a las hermanas Carpenter, pero al llegar a su departamento recibe una llamada de un Ghostface diferente, que ha asesinado a Greg y posteriormente apuñala a Jason, quién con su último aliento le dice a Ghostface debemos acabar la película a lo que le responde a quién le importan las películas antes de matarlo definitivamente."
+    },
+    {
+      "id": 26,
+      "name": "¡Shazam! La furia de los dioses",
+      "author": "David F. Sandberg",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Pelicula",
+      "img": "https://importar.multiplex.com.ar/img/pelicula-1239.png",
+      "resume":"Dos años después de la derrota de Thaddeus Sivana, en Atenas, Grecia, dos de las hijas del Titán Atlas, Hespera y Calipso, irrumpen en el Museo de la Acrópolis para robar el bastón roto del Mago. n. 1​ Luego se lo llevan al mago encarcelado, obligándolo a recitar Shazam, reparándolo así y activando sus poderes. En Filadelfia, Billy Batson con sus hermanos adoptivos salvan a la gente en el Puente Benjamin Franklin que se derrumba, pero son llamados a la destrucción. En casa, todos se están distanciando debido a que envejecen y tienen intereses personales. A Billy le preocupa que lo echen de la familia Vásquez después de cumplir 18 años y dejar el sistema de acogida por la edad. En un sueño, como Shazam, el mago advierte a Billy sobre las hijas de Atlas. Billy y sus hermanos luego investigan sobre las hijas."
+    },
+    {
+      "id": 27,
+      "name": "65",
+      "author": "Scott Beck",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Pelicula",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/65_film_teaser_poster.jpg",
+      "resume":"Un astronauta se estrella en un planeta habitado por criaturas salvajes e inverosímiles, acompañado de una niña, quienes son los únicos supervivientes del viaje. Tienen que sobrevivir en un recorrido a través de este misterioso planeta para poder regresar a casa."
+    },
+    {
+      "id": 28,
+      "name": "John Wick 4",
+      "author": "Chad Stahelski",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Pelicula",
+      "img": "https://es.web.img3.acsta.net/pictures/23/02/14/13/02/1985549.jpg",
+      "resume":"En Nueva York, John Wick se prepara para vengarse de la Alta Mesa mientras se esconde en la clandestinidad con el Bowery King. Viaja a Marruecos y mata al Anciano, el que se sienta encima de la Alta Mesa. En respuesta, el marqués Vincent de Gramont, miembro de la Alta Mesa, convoca al director del hotel Continental de Nueva York, Winston, y a su conserje, Charon. De Gramont explica que la Alta Mesa le ha dado recursos ilimitados para encontrar y matar a John Wick. Como castigo, De Gramont despoja a Winston de sus funciones como gerente, lo declara excomulgado, destruye el hotel Continental y ejecuta al conserje Charon. De Gramont viaja entonces a París y recluta a Caine -un asesino ciego y retirado de la Alta Mesa- para que mate a su viejo amigo John, amenazando con asesinar a la hija de Caine en caso contrario."
+    },
+    {
+      "id": 29,
+      "name": "Dungeons & Dragons: Honor entre ladrones",
+      "author": "Jonathan Goldstein",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Pelicula",
+      "img": "https://es.web.img2.acsta.net/pictures/23/03/13/09/13/4910814.jpg",
+      "resume":"Un ladrón y una banda de aventureros emprenden un atraco para recuperar una reliquia perdida, pero las cosas no salen como esperaban cuando se topan con las personas equivocadas y «desatan el mayor mal que el mundo jamás haya conocido».10​ «Dungeons & Dragons: Honor entre ladrones nos lleva al mágico mundo del legendario juego de rol a la pantalla grande en una aventura hilarante y llena de acción"
+    },
+    {
+      "id": 30,
+      "name": "Super Mario Bros: La película",
+      "author": "Buena Vista Social Club",
+      "price": 13.99,
+      "stock": 25,
+      "category":"novela",
+      "productype":"Pelicula",
+      "img": "https://es.web.img3.acsta.net/pictures/23/02/06/17/15/3568166.jpg",
+      "resume":"Los hermanos Mario y Luigi comenzaron recientemente su negocio de plomería en Brooklyn, Nueva York. El negocio tiene problemas y su padre desaprueba la decisión de Mario de dejar su trabajo estable bajo el antagonista Spike. Después de ver una fuga importante en las alcantarillas en las noticias, Mario y Luigi van al subsuelo para arreglarlas, pero ambos son absorbidos por una tubería y separados en el proceso."
+    }
+]
+    

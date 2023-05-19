@@ -1,0 +1,11 @@
+.cartwidget-container{
+    display: flex;
+    margin-right: 10px;
+}
+.cartwidget-contador{
+    color: #fff;
+}
+.cartwidget-img{
+    width: 42px;
+    cursor: pointer;
+}

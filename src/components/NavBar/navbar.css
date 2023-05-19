@@ -1,0 +1,32 @@
+.navbar-container{
+background-color: rgb(157, 117, 117);
+}
+.navbar-items{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-logo{
+    font-size: 30px;
+    margin-left: 20px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+.navbar-ul{
+    display: flex;
+    list-style: none;
+
+}
+.navbar-menu{
+    text-decoration: none;
+    margin: 0 15px;
+    color: #fff;
+    
+}
+
+.navbar-menu a{
+    text-decoration: none;
+    color: #fff;
+}

@@ -1,0 +1,19 @@
+.seedetail-contenedor{
+   
+}
+
+.seedetail{
+    
+    text-decoration: none;
+    background-color: rgb(34, 65, 165);
+    color: rgb(237, 237, 237);
+    padding: .5rem;
+    width: max-content;
+    border-radius: .5rem;
+    transition: .2s;
+}
+
+.seedetail:hover {
+    background-color: black;
+    color: white;
+}
